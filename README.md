@@ -50,7 +50,7 @@
 
 ## 🌐 Ссылки
 
-- [Посетить сайт](https://allexsan.github.io)
+- [Посетить сайт]([https://allexsan.github.io](https://allexsan.github.io/BagsStore/))
 - [Связаться с нами](https://allexsan.github.io#contacts)
 
 ---
