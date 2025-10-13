@@ -1,6 +1,6 @@
 # Bags Store - Сумки ручной работы
 
-![Магазин сумок](https://allexsan.github.io/BagsStore/)
+![Магазин сумок](https://allexsan.github.io/BagsStore)
 
 ## О проекте
 
